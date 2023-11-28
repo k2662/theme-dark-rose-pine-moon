@@ -8,7 +8,7 @@
 }
 
 .chroma .k {
-    color: #f63
+    color: #c4a7e7
 }
 
 .chroma .kc {
@@ -24,11 +24,11 @@
 }
 
 .chroma .kp {
-    color: #5f8700
+    color: #c4a7e7
 }
 
 .chroma .kr {
-    color: #f63
+    color: #c4a7e7
 }
 
 .chroma .kt {
@@ -87,11 +87,11 @@
 
 .chroma .s,
 .chroma .sa {
-    color: #1af
+    color: #9ccfd8
 }
 
 .chroma .sb {
-    color: #a0cc75
+    color: #9ccfd8
 }
 
 .chroma .sc,
